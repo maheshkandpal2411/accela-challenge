@@ -1,10 +1,10 @@
-package com.accela.crud;
+package com.accela.challenge;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CruddemoApplicationTests {
+class ChallengeApplicationTests {
 
 	@Test
 	void contextLoads() {
